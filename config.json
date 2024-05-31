@@ -7,13 +7,13 @@
     "autoClean": false,
     "commandDisabled": [],
     "eventDisabled": [],
-    "EMAIL": "",
-    "PASSWORD": "",
+    "EMAIL": "miobokopolo@gmail.com",
+    "PASSWORD": "TiteXDeck",
     "OTPKEY": "",
-    "BOTNAME": "",
+    "BOTNAME": "Reno",
     "PREFIX": "!",
     "ADMINBOT": [
-        "USERID1",
+        "100082959835429",
         "USERID2"
     ],
     "DATABASE": {
